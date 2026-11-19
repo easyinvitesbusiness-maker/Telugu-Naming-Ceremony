@@ -1,3 +1,1 @@
-# Telugu Naming Ceremony
-
-Upload index.html and cover.jpg to the root of their own Vercel project, or upload this ZIP through Vercel Drop. No build required. Edit index.html for event details and replace cover.jpg to change the image.
+Deploy this folder as a standalone static Vercel project. The names and venues are fictional. Replace the sample map query with your venue pin and update the visible date, event datetime, and event.ics together. Sharing appears when served over HTTP or HTTPS.
